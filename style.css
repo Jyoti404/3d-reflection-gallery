@@ -17,8 +17,8 @@ body {
     width: 200px;
     height: 200px;
     transform-style: preserve-3d;
-    animation: animate 30s ease-in-out infinite;
-    -webkit-animation: animate 30s ease-in-out infinite;
+    animation: animate 40s linear infinite;
+    -webkit-animation: animate 40s linear infinite;
 }
 
 @keyframes animate {
